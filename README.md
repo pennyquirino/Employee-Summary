@@ -3,10 +3,13 @@
 ## Instructions
 This Employee-Summary is a command line application using Node JS and MySQL. This is boiled down to three types of employees; Manager, Engineer, and Intern. Each have their own information. 
 
-By initializing 
+By initializing the application through Node, user is prompted by a series of questions, depending on if the employee. User has the option to add just one or multiple employees. 
 
+This application always starts by asking to add a manager. Once you have answered the manager questions, you can opt to add no more or to add the other types of employees. 
 
- The application will prompt the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. This assignment must also pass all unit tests. When the user has completed building the team, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user. 
+This had to pass all unit tests. 
+
+Once all employees have been entered, the application will generate an HTML file that displays a beautifully formatted team roster. 
 
 ## Minimum Requirements
 Functional application.
