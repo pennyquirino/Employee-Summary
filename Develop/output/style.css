@@ -1,0 +1,15 @@
+.jumbotron {
+    color: rgb(255, 255, 255);
+    background-image: url(techpics.jpg);
+    background-size: cover;
+}
+
+.team-area {
+    
+    color: black;
+   
+}
+
+.card-header {
+    background-color: rgb(5, 5, 59);
+}
